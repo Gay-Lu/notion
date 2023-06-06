@@ -5,3 +5,5 @@
 部分模板来源于网络，均在readme中有注明原作者
 
 遵守开源规则
+
+https://github.com/ShoroukAziz/notion_widgets
