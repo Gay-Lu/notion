@@ -6,7 +6,7 @@
 
 部分模板来源(Github地址)：
 
-[ShoroukAziz]([GitHub - ShoroukAziz/notion_widgets: A set of HTML widgets that could be embedded into Notion.so https://www.notion.so/ pages. For more see https://blog.shorouk.dev/notion-widgets-gallery/](https://github.com/ShoroukAziz/notion_widgets))
+[ShoroukAziz](https://github.com/ShoroukAziz/notion_widgets)
 
 网站地址：
 
